@@ -1,0 +1,7 @@
+C:\Users\harsh\source\repos\DemoOnTheGithub\DemoOnTheGithub\bin\Debug\DemoOnTheGithub.exe.config
+C:\Users\harsh\source\repos\DemoOnTheGithub\DemoOnTheGithub\bin\Debug\DemoOnTheGithub.exe
+C:\Users\harsh\source\repos\DemoOnTheGithub\DemoOnTheGithub\bin\Debug\DemoOnTheGithub.pdb
+C:\Users\harsh\source\repos\DemoOnTheGithub\DemoOnTheGithub\obj\Debug\DemoOnTheGithub.csproj.AssemblyReference.cache
+C:\Users\harsh\source\repos\DemoOnTheGithub\DemoOnTheGithub\obj\Debug\DemoOnTheGithub.csproj.CoreCompileInputs.cache
+C:\Users\harsh\source\repos\DemoOnTheGithub\DemoOnTheGithub\obj\Debug\DemoOnTheGithub.exe
+C:\Users\harsh\source\repos\DemoOnTheGithub\DemoOnTheGithub\obj\Debug\DemoOnTheGithub.pdb
